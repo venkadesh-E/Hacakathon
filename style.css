@@ -1,0 +1,15 @@
+.searchInput {
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+}
+.fetchDataBtn {
+  margin-top: 10px;
+  text-align: center;
+}
+
+h1 {
+  background-color: blueviolet;
+}
